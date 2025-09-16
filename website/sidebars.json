@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "Roadmap": ["doc1"],
+    "Novidades": ["doc2"],
+    "Manual": ["doc3"],
+    "Treinamentos": ["doc4"]
+  },
+  "docs-other": {
+    "First Category": ["doc5", "doc6"]
+  }
+}
