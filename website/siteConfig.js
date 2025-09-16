@@ -24,14 +24,14 @@ const siteConfig = {
   title: 'GD Control', // Title for your website.
   tagline: 'Documentação',
   url: 'https://gdtechdoc.pages.dev', // Your website URL
-  baseUrl: '/gdtechdoc/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'gdtechdoc',
-  organizationName: 'gdtech',
+  projectName: '',
+  organizationName: '',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
