@@ -132,10 +132,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'This is another description of how this project is useful',
+              'Gerencie suas usinas e tenha controle de sua operação!',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
-            title: 'Description',
+            title: 'Geração Distribuída com Segurança',
           },
         ]}
       </Block>
